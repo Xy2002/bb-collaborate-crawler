@@ -1,0 +1,24 @@
+{
+  "name": "bb-collaborate-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "get-random-values": "^1.2.2",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "await-to-js": "^3.0.0",
+    "btoa": "^1.2.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
